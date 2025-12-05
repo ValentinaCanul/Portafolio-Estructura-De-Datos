@@ -1,4 +1,10 @@
 # README ADA01
+
+## Explicación del ADA:
+El ADA consistió en implementar un programa en C que permite evaluar expresiones aritméticas mediante el uso de un analizador sintáctico. El proceso se divide en dos pasos fundamentales:
+- Transformar la expresión infija en notación postfija (Notación Polaca Inversa).
+- Evaluar la expresión postfija para obtener el resultado final.
+
 ### Como ejecutar el archivo:
 
 1- Extraiga los archivos en la misma carpeta.
