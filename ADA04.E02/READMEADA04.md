@@ -1,5 +1,11 @@
 # Readme ADA 04
-Cómo ejecutar el archivo
+## Explicación del ADA
+Este ADA consistió en desarrollar un sistema de gestión de estudiantes utilizando un árbol binario de búsqueda (ABB), donde la matrícula funciona como clave para ordenar la información. Cada nodo almacena datos del estudiante (matrícula, nombre, apellido y calificaciones dinámicas). 
+
+El sistema permite generar reportes ordenados por matrícula o promedio, filtrar estudiantes según su rendimiento, insertar y eliminar registros,
+actualizar calificaciones, contar alumnos con notas menores a un valor dado y visualizar el árbol en formato ASCII.
+
+### Cómo ejecutar el archivo
 
 1. Extraiga los archivos en la misma carpeta.
 
