@@ -1,4 +1,9 @@
 # README ADA02
+## Explicaión del ADA 
+El ADA consistió en implementar un programa en C/C++ para evaluar expresiones aritméticas. Primero se transforman las expresiones en notación postfija (Notación Polaca Inversa) y luego se evalúan para obtener el resultado. 
+
+
+El sistema lee las expresiones desde un archivo de entrada y genera otro archivo con las expresiones convertidas y sus resultados, respetando las prioridades de los operadores.
 
 ## Como ejecutar el archivo:
 
