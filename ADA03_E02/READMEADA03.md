@@ -1,5 +1,8 @@
 # Readme ADA 03
-Como ejecutar el archivo:
+## Explicación del ADA
+Este ADA consistió en implementar una lista doblemente ligada para gestionar datos de películas a partir de un archivo CSV. Se incluyeron funciones para cargar datos, buscar por título o actor, insertar nuevas películas, eliminar y actualizar registros, aprovechando la estructura para recorrer la lista en ambos sentidos.
+
+### Como ejecutar el archivo:
 
 1- Extraiga los archivos en la misma carpeta.
 
