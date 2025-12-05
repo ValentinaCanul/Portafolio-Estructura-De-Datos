@@ -1,0 +1,12 @@
+Local float l = 5.3 #collisions=0;
+Global float l = 5.3 #collisions=1;
+Local int x #collisions=0;
+Local int y = 2 #collisions=1;
+Global int y = 2 #collisions=1;
+Global String Sega = Sonic #collisions=0;
+Local String Sega = Miles "Tails" Prower #collisions=1;
+Global String Character = Mario #collisions=0;
+Local String Character = Luigi #collisions=1;
+Global int G #collisions=0;
+Global float a #collisions=0;
+Local float a #collisions=1;
